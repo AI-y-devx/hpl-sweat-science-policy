@@ -4,3 +4,4 @@
 
 - [개인정보처리방침](privacy-policy.html)
 - [이용약관](terms-of-service.html)
+- [계정 삭제 안내](account-deletion.html)
