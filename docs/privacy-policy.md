@@ -8,7 +8,7 @@
 서비스는 다음의 정보를 수집·이용할 수 있습니다.
 
 1) 계정/로그인 정보(필수)
-- Google 로그인(Firebase Authentication) 과정에서 제공되는 정보: 이메일, 표시 이름(displayName), 프로필 사진 URL(photoURL)
+- Google 로그인(Firebase Authentication) 과정에서 제공되는 정보: 이메일, 표시 이름(displayName)
 
 2) 프로필 정보(선택 또는 서비스 제공을 위해 이용자가 입력)
 - 이름
